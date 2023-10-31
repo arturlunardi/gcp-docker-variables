@@ -1,0 +1,10 @@
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
+torch 
+torchvision 
+torchaudio --index-url https://download.pytorch.org/whl/cpu
+transformers
+sentencepiece
+sacremoses
